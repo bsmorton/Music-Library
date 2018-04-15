@@ -1,0 +1,2 @@
+main: MusicLibrary.c
+	gcc MusicLibrary.c -o MusicLibrary
